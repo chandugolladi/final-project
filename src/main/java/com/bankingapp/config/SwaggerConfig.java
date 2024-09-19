@@ -22,8 +22,8 @@ public class SwaggerConfig {
 				.license(new License()
 				.name("Apache 2.0")
 				.url("http://springdoc.org")))
-				.externalDocs(new ExternalDocumentation().description("Code With Murad")
-				.url("https://codewithmurad.com"));
+				.externalDocs(new ExternalDocumentation().description("chandu golladi")
+				.url("https://chandugolladi.com"));
 	}
 	
 	
